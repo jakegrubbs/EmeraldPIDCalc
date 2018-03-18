@@ -10,9 +10,13 @@ If you don't know what any of this means, check out some of these resources
 (I do not take credit for any of these; they are not my creations):
 
 https://www.petit-fichier.fr/2016/02/15/precisions-sur-les-sous-structures-de-la-gen-iii-en/precisions-sur-les-sous-structures-de-la-gen-iii-en.html
+
 https://www.smogon.com/ingame/rng/emerald_rng_intro
+
 https://www.reddit.com/r/pokemonrng/
+
 https://www.youtube.com/watch?v=YTmGQsmFL9c
+
 https://www.youtube.com/watch?v=3nU2SV4hyng
 
 ...and my main inspiration for making this tool:
